@@ -9,7 +9,7 @@ import datetime
 # Create your views here.
 
 def hello(request):
-    return HttpResponse("Hello Admin..")
+    return HttpResponse("Hello Admin...")
 
 
 def Login(request):
